@@ -50,4 +50,4 @@ Start <a href="http://download.expload.com/expload-desktop/">expload-desktop</a>
 
 ### Future
 
-<!-- We are going to add big economic part of our game. -->An exchange for unique cars, shops with useful parts for the cars, and workshops for upgrading current cas are coming soon.
+<!-- We are going to add big economic part of our game. -->An exchange for unique cars, shops with useful parts for the cars, and workshops for upgrading current cars are coming soon.
