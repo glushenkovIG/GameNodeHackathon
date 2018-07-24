@@ -21,7 +21,7 @@ Or like this.
   <img src="Fight2.jpg" width="350" title="Second fight.">
 </p>
 
-At the end of every session we generate the transaction in the Pravda blockchain with all the information about this fight: types of the cars, users’ addresses and the result of the fight.
+At the end of every session we generate the transaction in the Pravda blockchain with all the information about this fight: types of the cars, users, addresses and the result of the fight.
 
 ```
 curl -X POST -H "Content-Type: application/json" --data '{"address": "21B262DDCF883D69D4642CFA21E39B463F143BA0729D195E16C3E9BD1BC139EA", "method":
@@ -46,6 +46,6 @@ Start the <a href="http://download.expload.com/expload-desktop/"> expload-deskto
 1) Download archive <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForMac.zip"> GameForMac.zip </a> / <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForLinux.zip"> GameForLinux.zip </a>, and run the game.
 2) After you win your opponent confirm the transaction to write this event in blockchain.
 
-###Future
+### Future
 
 We are going to add big economic part of our game. Exchange for unique cars, shops with useful parts of cars and upgrage of current car workshop are coming soon.
