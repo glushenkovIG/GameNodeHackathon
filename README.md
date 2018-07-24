@@ -35,9 +35,7 @@ localhost:8087/api/program/method
 </p>
 
 
-There is a life Demo.
-<iframe width="420" height="315" src="VideoGameNode.mov" frameborder="0" allowfullscreen></iframe>
-
+There is a <a href="https://www.youtube.com/watch?v=TVfSyeEHNcQ"> Life demo </a> of our game.:
 All code was written in C# and you can find it in this github.
 Start the <a href="http://download.expload.com/expload-desktop/"> expload-desktop </a> and use tutorial below to play our game.
 1) Download archive <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForMac.zip"> GameForMac.zip </a> / <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForLinux.zip"> GameForLinux.zip </a>, and run the game.
