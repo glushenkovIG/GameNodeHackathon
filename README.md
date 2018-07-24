@@ -1,5 +1,5 @@
 ### What we have done on the hackathon
-We have done a blockchain game named Head & Road.
+We have done a blockchain game named Head & Road and have found critical bug in SDK which didn't allow to sent transactions correctly.
 
 This is a PvP Fighter with a possibility of collecting unique items. Users fight in an arena using cars. You have to destroy the head of your opponent car’s driver to win.
 
@@ -43,7 +43,7 @@ All code was written in C# and you can find it in this github.
 To be convenience we have done the shell <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/Compile%26Deploy.file" >scrypt </a> for compiling, deploying and calling fight method.
 
 Start the <a href="http://download.expload.com/expload-desktop/"> expload-desktop </a> and use tutorial below to play our game.
-1) Download archive <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForMac.zip"> GameForMac.zip </a> / <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForLinux.zip"> GameForLinux.zip </a>, and run the game.
+1) Download archive <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForMac.zip"> GameForMac.zip </a> / <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForLinux.zip"> GameForLinux.zip </a>, and run the game. (This is a version for two players, use letters "A"/"D" and Arrow keys to control left and right car)
 2) After you win your opponent confirm the transaction to write this event in blockchain.
 
 ### Future
