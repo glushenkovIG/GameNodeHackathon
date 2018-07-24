@@ -35,7 +35,10 @@ localhost:8087/api/program/method
 </p>
 
 
+There is a life Demo.
+<iframe width="420" height="315" src="VideoGameNode.mov" frameborder="0" allowfullscreen></iframe>
 
-You can try playing our game with the tutorial.
-
-Download and start expload-desktop.
+All code was written in C# and you can find it in this github.
+Start the <a href="http://download.expload.com/expload-desktop/"> expload-desktop </a> and use tutorial below to play our game.
+1) Download archive <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForMac.zip"> GameForMac.zip </a> / <a href="https://github.com/glushenkovIG/GameNodeHackathon/blob/master/GameForLinux.zip"> GameForLinux.zip </a>, and run the game.
+2) After you win your opponent confirm the transaction to write this event in blockchain.
